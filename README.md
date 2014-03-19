@@ -21,4 +21,5 @@ My user settings for Sublime Text2
 - jQuery
 - SideBarEnhancements
 - SublimeCodeIntel
+- Terminal
 - WordPress
