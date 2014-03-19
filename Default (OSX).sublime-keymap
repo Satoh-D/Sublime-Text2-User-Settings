@@ -1,2 +1,18 @@
 [
+		/*
+		 * BracketHighlighter
+		 */
+    {
+        "keys": ["alt+super+u"],
+        "command": "bh_key",
+        "args":
+        {
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect"
+            }
+        }
+    }
 ]
