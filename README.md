@@ -14,5 +14,11 @@ My user settings for Sublime Text2
 - AutoFileName
 - BracketHighlighter
 - Emmet
+- Goto-CSS-Declaration
 - HalfImageSize
 - Hayaku - tools for writing CSS faster
+- HTML5
+- jQuery
+- SideBarEnhancements
+- SublimeCodeIntel
+- WordPress
