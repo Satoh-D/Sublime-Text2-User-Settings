@@ -1,0 +1,48 @@
+{
+	/*
+	 * General
+	 */ 
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"draw_minimap_border": true,
+	"font_size": 10,
+	"font_face": "Source Code Pro",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"word_wrap": false,
+
+	/*
+	 * Theme
+	 */
+	"theme": "Flatland Dark.sublime-theme",
+	"flatland_square_tabs": true,
+
+	/*
+	 * Autofilename
+	 */
+
+	// width属性を先に挿入する
+	"afn_insert_width_first": true,
+
+	/*
+	 * Emmet
+	 */
+
+	// 英語キーボード以外でEmmetを使う場合は「false」にするとかしないとか 
+	"enable_emmet_keymap": true,
+	// Emmetを有効にすると、HTMLで「php」の展開が「<?php ?>」にならない問題の回避
+	"disabled_single_snippet_for_scopes": "",
+	// Emmetを有効にすると、日本語変換確定後に文字が消えるのを防ぐ
+	"disable_formatted_linebreak": true,
+
+	/*
+	 * Vintage
+	 */
+	"vintage_start_in_command_mode": true
+}
