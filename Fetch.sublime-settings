@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"wordpress_latest": "https://github.com/WordPress/WordPress/archive/master.zip",
+		"wordpress_3.4.1": "http://ja.wordpress.org/wordpress-3.4.1-ja.zip"
+	}
+}

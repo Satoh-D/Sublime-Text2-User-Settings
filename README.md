@@ -19,7 +19,10 @@ My user settings for Sublime Text2
 - Hayaku - tools for writing CSS faster
 - HTML5
 - jQuery
+- Nuttuts+ Fetch
 - SideBarEnhancements
 - SublimeCodeIntel
 - Terminal
+- Theme - Flatland
+- Vintage
 - WordPress

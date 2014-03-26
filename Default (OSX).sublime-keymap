@@ -1,7 +1,7 @@
 [
-		/*
-		 * BracketHighlighter
-		 */
+	/*
+	 * BracketHighlighter
+	 */
     {
         "keys": ["alt+super+u"],
         "command": "bh_key",
@@ -15,4 +15,14 @@
             }
         }
     }
+
+    /*
+     * macTerminal
+     */
+    /*
+    {
+        "keys": ["alt+super+t"],
+        "command": "open_mac_terminal"
+    }
+    */
 ]
