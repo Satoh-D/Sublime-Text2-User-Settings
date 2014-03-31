@@ -14,6 +14,22 @@
                 "command": "bh_modules.bracketselect"
             }
         }
+    },
+
+    /*
+     * HalfImageSize
+     */
+    {
+        "keys": ["super+alt+h"],
+        "command": "half_image_size"
+    },
+    {
+        "keys": ["super+shift+h"],
+        "command": "half_image_size_line"
+    },
+    {
+        "keys": ["super+alt+shift+h"],
+        "command": "half_image_size_all"
     }
 
     /*

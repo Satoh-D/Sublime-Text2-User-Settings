@@ -1,0 +1,14 @@
+{
+	"snippets": {
+
+		"variables": {
+			"lang": "ja"
+		},
+
+		"html": {
+			"abbreviations": {
+				"doc": "html>(head>meta[charset=utf-8]+meta[name=description content]+meta[name=keywords content]+title)+body"
+			}
+		}
+	}
+}

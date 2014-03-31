@@ -12,13 +12,22 @@ My user settings for Sublime Text2
 ## Required Extensions:
 
 - AutoFileName
+- AdvancedNewFile
+- All Autocomplete
 - BracketHighlighter
+- Can I Use
+- ConvertToUTF8
+- DocBlockr
+- Dotfiles Syntax Highligting
 - Emmet
+- Gist
 - Goto-CSS-Declaration
 - HalfImageSize
+- Handlebars
 - Hayaku - tools for writing CSS faster
 - HTML5
 - jQuery
+- LiveReload
 - Nuttuts+ Fetch
 - SideBarEnhancements
 - SublimeCodeIntel

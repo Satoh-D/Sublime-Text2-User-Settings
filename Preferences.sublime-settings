@@ -3,8 +3,9 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"disable_formatted_linebreak": true,
-	"disabled_single_snippet_for_scopes": "",
+	"disabled_single_snippet_for_scopes": "css, less, sass, scss, stylus",
 	"draw_minimap_border": true,
 	"enable_emmet_keymap": true,
 	"flatland_square_tabs": true,
@@ -14,8 +15,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"BoundKeys",
 		"MacTerminal"
 	],
+	"jsdocs_extend_double_slash": false,
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Flatland Dark.sublime-theme",
